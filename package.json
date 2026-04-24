@@ -1,14 +1,14 @@
 {
-  "name": "github-projects",
+  "name": "auth-api-node",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Beginner auth API using Express, bcrypt, and JWT",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start": "node server.js",
+    "dev": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Swastik",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
